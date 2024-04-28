@@ -4,7 +4,7 @@ import lili from '../images_local/ourparis_dining/LiLi.jpg';
 import barKleber from '../images_local/ourparis_dining/BarKleber.jpg';
 import terrasseKleber from '../images_local/ourparis_dining/TerrasseKleber.jpg';
 import loungeKleber from '../images_local/ourparis_dining/LoungeKleber.jpg';
-import leRooftop from '../images_local/ourparis_dining/leRooftop.jpg';
+import leRooftop from '../images_local/ourparis_dining/LeRooftop.jpg';
 
 export const ourparis_dining = [
     {
